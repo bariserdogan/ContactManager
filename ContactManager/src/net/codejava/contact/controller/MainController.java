@@ -19,6 +19,7 @@ import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 import net.codejava.contact.dao.IDatabaseOperation;
 import net.codejava.contact.model.Contact;
 
+// Base Controller
 @Controller
 public class MainController {
 	
